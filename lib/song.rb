@@ -62,7 +62,7 @@ class Song
 
   end
   
-  
+  def self.de
   
   
 end
